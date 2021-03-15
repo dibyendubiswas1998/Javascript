@@ -247,3 +247,8 @@ console.log(a);
 console.log(b);
 console.log(x1);
 console.log(rest);
+
+
+
+// https://www.freecodecamp.org/news/array-and-object-destructuring-in-javascript/
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
